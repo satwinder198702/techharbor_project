@@ -32,7 +32,7 @@ public class mouseHoversPractice {
 
         WebElement link = driver.findElement(By.xpath("//div[@class = 'figcaption'][1]/a"));
 
-
+// new action act
 
         Actions act = new Actions(driver);
 
