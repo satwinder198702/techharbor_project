@@ -35,6 +35,7 @@ public class mouseHoversPractice {
 // new action act
 
         Actions act = new Actions(driver);
+        // move element
 
         act.moveToElement(img1).build().perform();
 
